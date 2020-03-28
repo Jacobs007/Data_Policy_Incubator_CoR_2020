@@ -6,4 +6,4 @@ Data selection:
 - Each manifesto was translated with Google Translate's in-built document function.
 - The obtained translations were scanned for (variations of) the following terms: city/cities, commune, CoR, county, devolution, district, local, mayor, metropol, municipal, province, regio, rural, sub national, subsidiarity, town, urban, village
 - Chunks of text were manually selected by taking 30 to 70 words surrounding each search term hit. 
-- The obtained dataset forms the basis for the analysis as outlined here:
+- The obtained dataset forms the basis for the analysis as outlined [here](https://github.com/Jacobs007/Policy-Incubator_European_Committee_of_the_Regions)
